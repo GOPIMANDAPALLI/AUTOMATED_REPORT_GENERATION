@@ -32,3 +32,16 @@ Finally, the script creates an instance of the PDF class, adds a page, and inser
 *OUTPUT VIDEO FOR AUTOMATED REPORT GENERATION* :
 
 
+*OUTPUT PHOTOS FOR AUTOMATED REPORT GENERATION* :
+
+
+PHOTO-1 :
+![Image](https://github.com/user-attachments/assets/689f4e63-41a7-4390-94a7-2cb411cf6641)
+PHOTO-2 :
+![Image](https://github.com/user-attachments/assets/28d236dd-5729-40f2-8d0e-d8d14f6dced2)
+PHOTO-3 :
+![Image](https://github.com/user-attachments/assets/baf52794-a419-4a32-bdba-92e457ee3e78)
+PHOTO-4 :
+![Image](https://github.com/user-attachments/assets/082ff16d-0ba0-41bd-9f12-147920f63128)
+
+
